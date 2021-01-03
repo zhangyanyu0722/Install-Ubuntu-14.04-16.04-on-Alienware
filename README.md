@@ -1,6 +1,6 @@
-# How to install Ubuntu 14.04.05 on Alienware 15 R3
+# How to install Ubuntu 14.04/16.04 on Alienware 15 R2 & Alienware Aurora R8
 
-Tiny guide to install Ubuntu 14.04.05 on a brand new Alienware 15 R3.
+Tiny guide to install Ubuntu 14.04 & Ubuntu 16.04 on a brand new Alienware 15 R2 & Alienware Aurora R8
 
 ## Let windows 10 install
 Just next, next, next filling up your data.
@@ -42,7 +42,7 @@ Enter your BIOS (F2 key on boot). Go to `Boot` tab and change `Secure Boot` opti
 
 Note that `Boot List Option` should be `UEFI` (it's the default).
 
-## Get the latest Ubuntu 14.04 and write it to a bootable pendrive
+## Get the latest Ubuntu 14.04 or Ubuntu 16.04 and write it to a bootable pendrive
 I got my image from the [official Ubuntu releases link](http://releases.ubuntu.com/14.04/) scrolling down to find [ubuntu-14.04.5-desktop-amd64.iso](http://releases.ubuntu.com/14.04/ubuntu-14.04.5-desktop-amd64.iso). I used Firefox + DownThemAll! addon to download it faster.
 
 
@@ -73,6 +73,7 @@ cd gparted_deb # Or whatever you called the folder
 sudo dpkg -i gparted_0.24.0-1~getdeb1_amd64.deb
 ```
 
+
 ## Use the install Wizard
 Just double click the `Install Ubuntu 14.04.05 LTS` desktop icon.
 
@@ -101,9 +102,5 @@ Then on the left free space, repeat the process but make it of type `swap`.
 Now you can click `Install Now`.
 
 In a few minutes you should be good to go!
-
-## Install Wifi and Ethernet
-
-...
 
 
