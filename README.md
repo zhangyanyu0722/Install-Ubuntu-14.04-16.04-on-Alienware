@@ -1,4 +1,8 @@
-# How to install Ubuntu 14.04/16.04 on Alienware 15 R2 & Alienware Aurora R8
+# How to install Ubuntu 14.04/16.04/18.04 on Alienware 15 R2 & Alienware Aurora R8
+
+```diff
+- Ubuntu 18 needs Ubuntu 18.04.02
+```
 
 Tiny guide to install Ubuntu 14.04 & Ubuntu 16.04 on a brand new Alienware 15 R2 & Alienware Aurora R8
 
